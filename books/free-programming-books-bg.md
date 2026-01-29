@@ -57,3 +57,5 @@
 
 * [Основи на програмирането с Python](https://python-book.softuni.bg) - Светлин Наков и колектив
 
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) – Al Sweigart
+
